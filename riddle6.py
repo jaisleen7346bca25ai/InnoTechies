@@ -1,0 +1,8 @@
+x=int(input("Enter number 1: "))
+y=int(input("Enter number 2: "))
+z=int(input("Enter number 3: "))
+
+if (x,y,z>0 and x,y,z<0 and x,y,z==0):
+    print("TRUE")
+else:
+    print("FALSE")
